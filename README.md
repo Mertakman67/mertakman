@@ -1,4 +1,4 @@
-# mertakman
+# Mert Akman
 # 💫 About Me:
 Hello, I am Mert Akman. I am a High School Graduate and I have participated in various projects throughout my high school life. I participated in many competitions in the FIRST Robotics Competition.
 I took on the task of software captain in the teams I participated in.
