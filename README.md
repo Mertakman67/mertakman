@@ -1,6 +1,13 @@
 # mertakman
 # 💫 About Me:
-Lise mezunuyum. Lisede .çeşitli projelere katıldım FIRST Robotics Competition takımımda yazılım kaptanı ve driver olarak yer aldım robotumuzun kodları java ile yazdım 
+Hello, I am Mert Akman. I am a High School Graduate and I have participated in various projects throughout my high school life. I participated in many competitions in the FIRST Robotics Competition.
+I took on the task of software captain in the teams I participated in.
+Competitions I participated in;
+2021 Pendik Off Season, 2022 Pendik Off Season,
+2023 Halic Regional, 2023 Pendik Off Season.
+At the same time, I competed as a driver and competed in the same Teknofest Efficenyc Challenge.
+Competitions I Participated in;
+Teknofest Efficeny Challenge 2022
 
 
 ## 🌐 Socials:
